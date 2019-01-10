@@ -2,4 +2,6 @@
 It allows real time object detection using YOLO (You Only Look Once). YOLO is a network used to detect objects. It is a single network
 similar to CNN (Convolutional Neural Network) that takes an image frame as an input and outputs a vector of bounding boxes and class 
 predictions. Once you start running the code, the camera starts running and image frames are extracted from the on-going video. We can also
-train YOLO using different data sets for object identification.
+train YOLO using different data sets for object identification. I have used version 3 of YOLO.
+                                            
+                                                        Thank you
